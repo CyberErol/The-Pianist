@@ -1,9 +1,9 @@
 .links {
-    font-family: Roboto;
-font-style: normal;
-font-weight: bold;
-font-size: 36px;
-line-height: 42px;
-
-color: #BAA24F;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 42px;
+    color: #BAA24F;
+    text-decoration: none;
 }
