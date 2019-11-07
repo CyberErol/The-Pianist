@@ -14,11 +14,11 @@
                     <img src="title.jpg">
                 </div>
                 <div>
-                    <a href="index.html">HOME</a>
-                    <a href="story.html">STORY</a> 
-                    <a href="cast.html">CAST</a>
-                    <a href="https://www.amazon.com/Pianist-Single-Sided-Version-Adrien-Brody/dp/B000FVQLRA/ref=sr_1_2_twi_dvd_1?ie=UTF8&qid=1484698212&sr=8-2&keywords=the+pianist">DVD</a>
-                    <a href="https://www.amazon.com/Pianist-Blu-ray-anglais-Adrien-Brody/dp/B002BD9DO8/ref=tmm_blu_swatch_0?_encoding=UTF8&qid=1484698212&sr=8-2">BLU-RAY</a> 
+                    <a class="links" href="index.html">HOME</a>
+                    <a class="links" href="story.html">STORY</a> 
+                    <a class="links" href="cast.html">CAST</a>
+                    <a class="links" ref="https://www.amazon.com/Pianist-Single-Sided-Version-Adrien-Brody/dp/B000FVQLRA/ref=sr_1_2_twi_dvd_1?ie=UTF8&qid=1484698212&sr=8-2&keywords=the+pianist">DVD</a>
+                    <a class="links" href="https://www.amazon.com/Pianist-Blu-ray-anglais-Adrien-Brody/dp/B002BD9DO8/ref=tmm_blu_swatch_0?_encoding=UTF8&qid=1484698212&sr=8-2">BLU-RAY</a> 
                 </div>
             </div>
             <div>
