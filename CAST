@@ -1,1 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+     <body style="background-color:black;">
+    <head>
+        <meta charset="UTF-8">
+        <title>Document</title>
+        <link rel="stylesheet" type="text/css" href="style.css">
+    </head>
+    <body>
+        <div >
+            <div>
+                <div class="flex-center">
+                    <img style='height: 100%; width: 100%; object-fit: contain' src="titlepage.jpg">
+                </div>
+                <div class="flex-center">
+                    <a class="links" href="index.html">HOME</a>
+                    <a class="links" href="story.html">STORY</a> 
+                    <a class="links" href="cast.html">CAST</a>
+                    <a class="links" href="https://www.amazon.com/Pianist-Single-Sided-Version-Adrien-Brody/dp/B000FVQLRA/ref=sr_1_2_twi_dvd_1?ie=UTF8&qid=1484698212&sr=8-2&keywords=the+pianist">DVD</a>
+                    <a class="links" href="https://www.amazon.com/Pianist-Blu-ray-anglais-Adrien-Brody/dp/B002BD9DO8/ref=tmm_blu_swatch_0?_encoding=UTF8&qid=1484698212&sr=8-2">BLU-RAY</a> 
+                </div>
+            </div>
+            <div>
 
+                <table>
+                    <tr>
+                        <td>
+                            <a class="cast" href="https://en.wikipedia.org/wiki/Adrien_Brody">Adrien Brody as Władysław Szpilman</a>
+                        </td>   
+                    </tr>
+                    <tr>
+                        <td>
+                            <a class="cast" href="https://en.wikipedia.org/wiki/Thomas_Kretschmann">Thomas Kretschmann as Captain Wilm Hosenfeld</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <a class="cast" href="https://en.wikipedia.org/wiki/Frank_Finlay">Frank Finlay as Samuel Szpilman</a>
+                        </td>   
+                    </tr>
+                    <tr>
+                        <td>
+                            <a class="cast" href="https://en.wikipedia.org/wiki/Maureen_Lipman">Maureen Lipman as Edwarda Szpilman</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <a class="cast" href="https://en.wikipedia.org/wiki/Emilia_Fox">Emilia Fox as Dorota</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <a class="cast" href="https://en.wikipedia.org/wiki/Ed_Stoppard">Ed Stoppard as Henryk Szpilman</a>
+                        </td>      
+                    </tr>
+                    <tr>
+                        <td>
+                            <a class="cast" href="https://en.wikipedia.org/wiki/Julia_Rayner">Julia Rayner as Regina Szpilman</a>
+                        </td>    
+                    </tr>
+                    <tr>
+                        <td>
+                            <a class="cast" href="https://en.wikipedia.org/wiki/Jessica_Kate_Meyer">Jessica Kate Meyer as Halina Szpilman</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <a class="cast" href="https://en.wikipedia.org/wiki/Ronan_Vibert">Ronan Vibert as Andrzej Bogucki</a>
+                        </td> 
+                    </tr>
+                    <tr>
+                        <td>
+                            <a class="cast" href="https://en.wikipedia.org/wiki/Ruth_Platt">Ruth Platt as Janina Bogucki</a>
+                        </td>   
+                    </tr>
+                    <tr>
+                        <td>
+                            <a class="cast" href="https://en.wikipedia.org/wiki/Andrew_Tiernan">Andrew Tiernan as Szalas</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <a class="cast" href="https://en.wikipedia.org/wiki/Micha%C5%82_%C5%BBebrowski">Michał Żebrowski as Jurek</a>
+                        </td>            
+                    </tr>
+                    <tr>
+                        <td>
+                                <a class="cast" href="https://en.wikipedia.org/wiki/Roy_Smiles">Roy Smiles as Itzhak Heller</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <a class="cast" href="https://en.wikipedia.org/wiki/Richard_Ridings">Richard Ridings as Mr. Lipa</a>       
+                        </td>       
+                    </tr>
+                    <tr>
+                        <td>
+                            <a class="cast" href="https://en.wikipedia.org/wiki/Daniel_Caltagirone">Daniel Caltagirone as Majorek</a>
+                        </td>   
+                    </tr>
+                    <tr>
+                        <td>
+                            <a class="cast" href="https://en.wikipedia.org/wiki/Valentine_Pelka">Valentine Pelka as Dorota's Husband</a> 
+                        </td>             
+                    </tr>
+                </table>      
+            </div>
+        </div>
+    </body>
+</html>
