@@ -1,3 +1,4 @@
+  
 <!DOCTYPE html>
 <html lang="en">
      <body style="background-color:black;">
@@ -10,25 +11,23 @@
         <div >
             <div>
                 <div class="flex-center">
-                     <img style='height: 100%; width: 100%; object-fit: contain' src="adrien-brody-the-pianist-6">
+                     <img style='height: 100%; width: 100%; object-fit: contain' src="adrien-brody-the-pianist-6.jpg">
                 </div>
                 <div class="flex-center">
                     <a class="links" href="index.html">HOME</a>
                     <a class="links" href="story.html">STORY</a> 
                     <a class="links" href="cast.html">CAST</a>
                     <a class="links" href="https://www.amazon.com/Pianist-Single-Sided-Version-Adrien-Brody/dp/B000FVQLRA/ref=sr_1_2_twi_dvd_1?ie=UTF8&qid=1484698212&sr=8-2&keywords=the+pianist">DVD</a>
-                    <a class="links" href="https://www.amazon.com/Pianist-Blu-ray-anglais-Adrien-Brody/dp/B002BD9DO8/ref=tmm_blu_swatch_0?_encoding=UTF8&qid=1484698212&sr=8-2">BLU-RAY</a>
+                    <a class="links" href="https://www.amazon.com/Pianist-Blu-ray-anglais-Adrien-Brody/dp/B002BD9DO8/ref=tmm_blu_swatch_0?_encoding=UTF8&qid=1484698212&sr=8-2">BLU-RAY</a> 
                     <a class="links" href="https://www.imdb.com/title/tt0253474/">IMDB</a>
                 </div>
             </div>
             <div>
-                <div>
-                    <!--video-->
-                     <h2 style="padding-top: 100px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px"></h2>
-                        <body style="background-color:black;" >
-                            <iframe width="621" height="379" align="left" align="top" padding-bottom=40px left=40px
-                            src="https://www.youtube.com/embed/BFwGqLa_oAo?controls=0">
-                            </iframe>
+                <div class="video">
+                    <!--video--
+                    <h2 style="padding-top: 100px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px"></h2>
+                    -->
+                    <iframe width="621" height="379" src="https://www.youtube.com/embed/BFwGqLa_oAo?controls=0"></iframe>
                 </div>
                 <div>
                    <p class="paragraph">
