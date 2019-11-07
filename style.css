@@ -41,3 +41,14 @@
     padding-left: 140px;
     padding-right: 140px;
 }
+
+.cast {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 33px;
+    text-align: center;
+    color: #BAA24F;
+    text-decoration: none;
+}
