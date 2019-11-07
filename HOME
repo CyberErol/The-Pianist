@@ -1,1 +1,28 @@
-
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Document</title>
+        <link rel="stylesheet" type="text/css" href="style.css">
+    </head>
+    <body>
+        <div >
+            <div>
+                <div>
+                    <!-- images-->
+                </div>
+                <div>
+                   <!--links--> 
+                </div>
+            </div>
+            <div>
+                <div>
+                    <!--video-->
+                </div>
+                <div>
+                    <!--text-->
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
