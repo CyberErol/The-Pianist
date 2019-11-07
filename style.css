@@ -7,3 +7,18 @@
     color: #BAA24F;
     text-decoration: none;
 }
+
+.paragraph {
+    position: absolute;
+    width: 539px;
+    height: 392px;
+    left: 741px;
+    top: 468px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: justify;
+    color: #BAA24F;
+}
