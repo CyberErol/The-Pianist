@@ -26,10 +26,12 @@
     font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: bold;
-    font-size: 30px;
-    line-height: 35px;
+    font-size: 24px;
+    line-height: 30px;
     text-align: justify;
     color: #BAA24F;
+    padding-top: 50px;
+    padding-left: 20px;
 }
 
 .story {
@@ -43,6 +45,10 @@
     padding-left: 140px;
     padding-right: 140px;
 }
+/*
+* {
+    outline: red solid 1px;
+}*/
 
 .cast {
     font-family: 'Roboto', sans-serif;
@@ -53,4 +59,8 @@
     text-align: center;
     color: #BAA24F;
     text-decoration: none;
+}
+
+.video {
+    padding-left: 100px;
 }
