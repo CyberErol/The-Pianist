@@ -29,3 +29,15 @@
     text-align: justify;
     color: #BAA24F;
 }
+
+.story {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: justify;
+    color: #BAA24F;
+    padding-left: 140px;
+    padding-right: 140px;
+}
