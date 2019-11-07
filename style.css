@@ -6,6 +6,13 @@
     line-height: 42px;
     color: #BAA24F;
     text-decoration: none;
+    padding-right: 58px;
+    padding-left: 58px;
+}
+
+.flex-center {
+    display: flex;
+    justify-content: center;
 }
 
 .paragraph {
