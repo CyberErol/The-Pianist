@@ -26,7 +26,12 @@
                     <!--video-->
                 </div>
                 <div>
-                    <!--text-->
+                   <p class="paragraph">
+                        The Pianist is a 2002 biographical war drama film produced and directed by Roman Polanski,
+                        the script was written by Ronald Harwood, and starring Adrien Brody. It is based on the autobiographical
+                        book The Pianist, a Holocaust memoir by the Polish-Jewish pianist and composer Władysław Szpilman, a 
+                        Holocaust survivor. The film was a co-production of France, the United Kingdom, Germany, and Poland.
+                   </p>
                 </div>
             </div>
         </div>
