@@ -53,11 +53,11 @@
     font-style: normal;
     font-weight: bold;
     font-size: 21px;
-    line-height: 50px;
+    line-height: 20px;
     text-align: center;
     color: white;
     text-decoration: none;
-    padding-left: 20px;
+    padding-left: 50px;
 }
 
 .flex-container {
