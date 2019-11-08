@@ -28,11 +28,13 @@
     color: #BAA24F;
     padding-left: 20px;
     padding-right: 100px;
+    padding-bottom: 100px;
     display: inline-block;
 }
 
 .video {
     padding-left: 100px;
+    padding-bottom: 100px;
     float: left;
 }
 
