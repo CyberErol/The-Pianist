@@ -1,119 +1,79 @@
 <!DOCTYPE html>
 <html lang="en">
-     <body style="background-color:black;">
+
+<body style="background-color:black;">
+
     <head>
         <meta charset="UTF-8">
         <title>Cast</title>
         <link rel="stylesheet" type="text/css" href="style.css">
     </head>
+
     <body>
-        <div >
+        <div>
             <div>
                 <div class="flex-center">
                     <img style='height: 100%; width: 100%; object-fit: contain' src="adrien-brody-the-pianist-6.jpg">
                 </div>
                 <div class="flex-center">
                     <a class="links" href="index.html">HOME</a>
-                    <a class="links" href="story.html">STORY</a> 
+                    <a class="links" href="story.html">STORY</a>
                     <a class="links" href="cast.html">CAST</a>
-                    <a class="links" href="https://www.amazon.com/Pianist-Single-Sided-Version-Adrien-Brody/dp/B000FVQLRA/ref=sr_1_2_twi_dvd_1?ie=UTF8&qid=1484698212&sr=8-2&keywords=the+pianist">DVD</a>
-                    <a class="links" href="https://www.amazon.com/Pianist-Blu-ray-anglais-Adrien-Brody/dp/B002BD9DO8/ref=tmm_blu_swatch_0?_encoding=UTF8&qid=1484698212&sr=8-2">BLU-RAY</a> 
-                    <a class="links" href="https://www.imdb.com/title/tt0253474/">IMDB</a>
+                    <a class="links"
+                        href="https://www.amazon.com/Pianist-Single-Sided-Version-Adrien-Brody/dp/B000FVQLRA/ref=sr_1_2_twi_dvd_1?ie=UTF8&qid=1484698212&sr=8-2&keywords=the+pianist" target="_blank">DVD</a>
+                    <a class="links"
+                        href="https://www.amazon.com/Pianist-Blu-ray-anglais-Adrien-Brody/dp/B002BD9DO8/ref=tmm_blu_swatch_0?_encoding=UTF8&qid=1484698212&sr=8-2" target="_blank">BLU-RAY</a>
+                    <a class="links" href="https://www.imdb.com/title/tt0253474/" target="_blank">IMDB</a>
                 </div>
             </div>
-            <div>
-            
-             <div style="text-indent: 150px;">
-                   <br>
-                    <br>
-                    <br>
-                    
-                    
-                   </div>
-
-                <table>
-                    <tr>
-                        <td>
-                            <a class="cast" href="https://en.wikipedia.org/wiki/Adrien_Brody">Adrien Brody as Władysław Szpilman</a>
-                        </td>   
-                    </tr>
-                    <tr>
-                        <td>
-                            <a class="cast" href="https://en.wikipedia.org/wiki/Thomas_Kretschmann">Thomas Kretschmann as Captain Wilm Hosenfeld</a>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            <a class="cast" href="https://en.wikipedia.org/wiki/Frank_Finlay">Frank Finlay as Samuel Szpilman</a>
-                        </td>   
-                    </tr>
-                    <tr>
-                        <td>
-                            <a class="cast" href="https://en.wikipedia.org/wiki/Maureen_Lipman">Maureen Lipman as Edwarda Szpilman</a>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            <a class="cast" href="https://en.wikipedia.org/wiki/Emilia_Fox">Emilia Fox as Dorota</a>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            <a class="cast" href="https://en.wikipedia.org/wiki/Ed_Stoppard">Ed Stoppard as Henryk Szpilman</a>
-                        </td>      
-                    </tr>
-                    <tr>
-                        <td>
-                            <a class="cast" href="https://en.wikipedia.org/wiki/Julia_Rayner">Julia Rayner as Regina Szpilman</a>
-                        </td>    
-                    </tr>
-                    <tr>
-                        <td>
-                            <a class="cast" href="https://en.wikipedia.org/wiki/Jessica_Kate_Meyer">Jessica Kate Meyer as Halina Szpilman</a>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            <a class="cast" href="https://en.wikipedia.org/wiki/Ronan_Vibert">Ronan Vibert as Andrzej Bogucki</a>
-                        </td> 
-                    </tr>
-                    <tr>
-                        <td>
-                            <a class="cast" href="https://en.wikipedia.org/wiki/Ruth_Platt">Ruth Platt as Janina Bogucki</a>
-                        </td>   
-                    </tr>
-                    <tr>
-                        <td>
-                            <a class="cast" href="https://en.wikipedia.org/wiki/Andrew_Tiernan">Andrew Tiernan as Szalas</a>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            <a class="cast" href="https://en.wikipedia.org/wiki/Micha%C5%82_%C5%BBebrowski">Michał Żebrowski as Jurek</a>
-                        </td>            
-                    </tr>
-                    <tr>
-                        <td>
-                                <a class="cast" href="https://en.wikipedia.org/wiki/Roy_Smiles">Roy Smiles as Itzhak Heller</a>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            <a class="cast" href="https://en.wikipedia.org/wiki/Richard_Ridings">Richard Ridings as Mr. Lipa</a>       
-                        </td>       
-                    </tr>
-                    <tr>
-                        <td>
-                            <a class="cast" href="https://en.wikipedia.org/wiki/Daniel_Caltagirone">Daniel Caltagirone as Majorek</a>
-                        </td>   
-                    </tr>
-                    <tr>
-                        <td>
-                            <a class="cast" href="https://en.wikipedia.org/wiki/Valentine_Pelka">Valentine Pelka as Dorota's Husband</a> 
-                        </td>             
-                    </tr>
-                </table>      
+            <div class="flex-center">
+                <div class="cast">
+                    <img src="Adrien Brody.jpg" alt="" href="https://en.wikipedia.org/wiki/Adrien_Brody">
+                    <a class="cast" href="https://en.wikipedia.org/wiki/Thomas_Kretschmann" target="_blank"><h2>Adrien Brody</h2>Wladyslaw Szpilman</a>
+                </div>
+                <div class="cast">
+                    <img src="Thomas Kretschmann.jpg" alt="">
+                    <a class="cast" href="https://en.wikipedia.org/wiki/Thomas_Kretschmann" target="_blank"><h2>Thomas Kretschmann</h2>Captain Wilm Hosenfeld</a>
+                </div>
+                <div class="cast">
+                    <img src="Emilia Fox.jpg" alt="">
+                    <a class="cast" href="https://en.wikipedia.org/wiki/Thomas_Kretschmann" target="_blank"><h2>Emilia Fox</h2>Dorota</a>
+                </div>
             </div>
+            <br>
+            <br>
+            <br>
+            <div class="flex-center">
+                <div class="cast">
+                    <img src="Maureen Lipman.jpg" alt="">
+                    <a class="cast" href="https://en.wikipedia.org/wiki/Maureen_Lipman" target="_blank"><h2>Maureen Lipman</h2>Edwarda Szpilman</a>
+                </div>
+                <div class="cast">
+                    <img src="John Bennett.jpg" alt="">
+                    <a class="cast" href="https://en.wikipedia.org/wiki/John_Bennett" target="_blank"><h2>John Bennett</h2>Dr. Ehrlich</a>
+                </div>
+                <div class="cast">
+                    <img src="Andrew Tiernan.jpg" alt="">
+                    <a class="cast" href="https://en.wikipedia.org/wiki/Andrew_Tiernan" target="_blank"><h2>Andrew Tiernan</h2>Szalas</a>
+                </div>  
+            </div>
+            <br>
+            <br>
+            <br>
+            <div class="flex-center">
+                <div class="cast">
+                    <img src="Ed Stoppard.jpg" alt="">
+                    <a class="cast" href="https://en.wikipedia.org/wiki/Ed_Stoppard" target="_blank"><h2>Ed Stoppard</h2>Edwarda Szpilman</a>
+                </div>
+                <div class="cast">
+                    <img src="Jessica Kate Meyers.jpg" alt="">
+                    <a class="cast" href="https://en.wikipedia.org/wiki/Jessica_Kate_Meyers" target="_blank"><h2>Jessica Kate Meyers</h2>Dr. Ehrlich</a>
+                </div>
+                <div class="cast">
+                    <img src="Frank Finlay.jpg" alt="">
+                    <a class="cast" href="https://en.wikipedia.org/wiki/Frank_Finlay" target="_blank"><h2>Frank Finlay</h2>Szalas</a>
+                </div>  
+            </div>     
         </div>
     </body>
 </html>
