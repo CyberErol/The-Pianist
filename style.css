@@ -19,10 +19,6 @@
 
 .paragraph {
     position: absolute;
-    width: 539px;
-    height: 392px;
-    left: 741px;
-    top: 468px;
     font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: bold;
@@ -30,8 +26,14 @@
     line-height: 30px;
     text-align: justify;
     color: #BAA24F;
-    padding-top: 50px;
     padding-left: 20px;
+    padding-right: 100px;
+    display: inline-block;
+}
+
+.video {
+    padding-left: 100px;
+    float: left;
 }
 
 .story {
@@ -45,10 +47,6 @@
     padding-left: 140px;
     padding-right: 140px;
 }
-/*
-* {
-    outline: red solid 1px;
-}*/
 
 .cast {
     font-family: 'Roboto', sans-serif;
@@ -60,8 +58,4 @@
     color: white;
     text-decoration: none;
     padding-left: 20px;
-}
-
-.video {
-    padding-left: 100px;
 }
