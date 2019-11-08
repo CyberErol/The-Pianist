@@ -59,3 +59,8 @@
     text-decoration: none;
     padding-left: 20px;
 }
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+}
