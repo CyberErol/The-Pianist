@@ -32,37 +32,34 @@
                    </div>
 
                 <table>
-                            <div class="cast">
-                                <div class="cast">
-                                    <img src="Adrien Brody.jpg" alt="">
-                                    <h2>Adrien Brody</h2>
-                                    <h4>Wladyslaw Szpilman</h4>
-                                    <p>The Jew. </p>
-                                </div>
-                            </div>  
-                            <div class="cast">
-                                <div class="cast">
-                                    <img src="Thomas Kretschmann.jpg" alt="">
-                                    <h2>Thomas Kretschmann</h2>
-                                    <h4>Captain Wilm Hosenfeld</h4>
-                                    <p>The help. </p>
-                                </div>
-                            </div>
-                            <a class="cast" href="https://en.wikipedia.org/wiki/Thomas_Kretschmann">Thomas Kretschmann as Captain Wilm Hosenfeld</a>
+                     <div class="cast">
+                        <img src="Adrien Brody.jpg" alt="" href="https://en.wikipedia.org/wiki/Adrien_Brody">
+                        <a class="cast" href="https://en.wikipedia.org/wiki/Thomas_Kretschmann"><h2>Adrien Brody</h2>Wladyslaw Szpilman</a>
+                    </div>
+                    <div class="cast">
+                        <img src="Thomas Kretschmann.jpg" alt="">
+                        <a class="cast" href="https://en.wikipedia.org/wiki/Thomas_Kretschmann"><h2>Thomas Kretschmann</h2>Captain Wilm Hosenfeld</a>
+                    </div>
+                    <div class="cast">
+                        <img src="Emilia Fox.jpg" alt="">
+                        <a class="cast" href="https://en.wikipedia.org/wiki/Thomas_Kretschmann"><h2>Emilia Fox</h2>Dorota</a>
+                    </div>
+                    <div class="cast">
+                        <img src="Maureen Lipman.jpg" alt="">
+                        <a class="cast" href="https://en.wikipedia.org/wiki/Maureen_Lipman"><h2>Maureen Lipman</h2>Edwarda Szpilman</a>
+                    </div>
+                    <div class="cast">
+                        <img src="John Bennett.jpg" alt="">
+                        <a class="cast" href="https://en.wikipedia.org/wiki/John_Bennett"><h2>John Bennett</h2>Dr. Ehrlich</a>
+                    </div>
+                    <div class="cast">
+                        <img src="Andrew Tiernan.jpg" alt="">
+                        <a class="cast" href="https://en.wikipedia.org/wiki/Andrew_Tiernan"><h2>Andrew Tiernan</h2>Szalas</a>
+                    </div>                           
                     <tr>
                         <td>
                             <a class="cast" href="https://en.wikipedia.org/wiki/Frank_Finlay">Frank Finlay as Samuel Szpilman</a>
                         </td>   
-                    </tr>
-                    <tr>
-                        <td>
-                            <a class="cast" href="https://en.wikipedia.org/wiki/Maureen_Lipman">Maureen Lipman as Edwarda Szpilman</a>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            <a class="cast" href="https://en.wikipedia.org/wiki/Emilia_Fox">Emilia Fox as Dorota</a>
-                        </td>
                     </tr>
                     <tr>
                         <td>
@@ -88,11 +85,6 @@
                         <td>
                             <a class="cast" href="https://en.wikipedia.org/wiki/Ruth_Platt">Ruth Platt as Janina Bogucki</a>
                         </td>   
-                    </tr>
-                    <tr>
-                        <td>
-                            <a class="cast" href="https://en.wikipedia.org/wiki/Andrew_Tiernan">Andrew Tiernan as Szalas</a>
-                        </td>
                     </tr>
                     <tr>
                         <td>
