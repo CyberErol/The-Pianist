@@ -22,20 +22,15 @@
                 </div>
             </div>
             <div>
-            
-             <div style="text-indent: 150px;">
-                   <br>
+                <div style="text-indent: 150px;">
                     <br>
                     <br>
-                    
-                    
-                   </div>
-
+                    <br>          
+                </div>
                 <table>
                      <div class="cast">
                         <img src="Adrien Brody.jpg" alt="" href="https://en.wikipedia.org/wiki/Adrien_Brody">
                         <a class="cast" href="https://en.wikipedia.org/wiki/Thomas_Kretschmann"><h2>Adrien Brody</h2>Wladyslaw Szpilman</a>
-                    </div>
                     <div class="cast">
                         <img src="Thomas Kretschmann.jpg" alt="">
                         <a class="cast" href="https://en.wikipedia.org/wiki/Thomas_Kretschmann"><h2>Thomas Kretschmann</h2>Captain Wilm Hosenfeld</a>
