@@ -1,7 +1,7 @@
 Figma link
 
 
-Link
+Link: https://tak18salundi.itmajakas.ee/The_Pianist/index.html 
 
 Liikmed:
 Joel Pupart, TA-19
