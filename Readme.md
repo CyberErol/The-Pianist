@@ -9,8 +9,6 @@ https://tak18salundi.itmajakas.ee/The_Pianist/index.html
 
 * Joel Pupart, TA-19;
 
-* Erol Trumm, TA-19;
-
 * Markus Salundi, TAK-18;
 
 * Joonas Püüding, TAK-...;
